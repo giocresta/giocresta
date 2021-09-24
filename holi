@@ -1,0 +1,52 @@
+h4 {
+    color :  rgb ( 229 ,  231 ,  68 );
+}
+
+# cabecera {
+    color :  rgb ( 0 ,  0 ,  0 );
+    familia de fuentes : Arial , Helvetica , sans-serif;
+    color de fondo : aliceblue;
+}
+
+# pais1 {
+    color : verde claro ;
+}
+
+# pais2 {
+    color :  rgb ( 199 ,  15 ,  86 );
+}
+
+# pais3 {
+    color :  rgb ( 207 ,  195 ,  23 );
+}
+
+h2 {
+    color : rojo;
+}
+
+# capitales1 {
+    color de fondo :  rgb ( 5 ,  142 ,  73 );
+    color : negro;
+    borde :  2 px ;
+    margen :  10 px ;
+    relleno :  5 px ;
+    fondo acolchado :  15 px ;
+}
+
+# capitales2 {
+    color de fondo :  rgb ( 212 ,  113 ,  204 );
+    color : negro;
+    borde :  2 px ;
+    margen :  10 px ;
+    relleno :  5 px ;
+    fondo acolchado :  15 px ;
+}
+
+# capitales3 {
+    color de fondo :  rgb ( 5 ,  126 ,  142 );
+    color : negro;
+    borde :  2 px ;
+    margen :  10 px ;
+    relleno :  5 px ;
+    fondo acolchado :  15 px ;
+}
